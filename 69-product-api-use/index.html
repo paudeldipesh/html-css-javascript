@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fake Store Product Viewer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Product Viewer</h1>
+      <div class="form-group">
+        <label for="productId">Enter a number (1-20):</label>
+        <input type="number" id="productId" min="1" max="20" />
+      </div>
+      <div class="form-group">
+        <button id="fetchProductBtn">Fetch Product</button>
+      </div>
+      <div class="product" id="product">
+        <img id="productImage" src="" alt="Product Image" />
+        <h2 id="productTitle"></h2>
+        <p id="productDescription"></p>
+        <p>
+          <strong>Price: $<span id="productPrice"></span></strong>
+        </p>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,60 @@
+{
+  "information": [
+    "KP Oli",
+    "Full Stack Developer",
+    "Passionate about creating efficient and scalable software solutions. With 5+ years of experience in web development, I specialize in frontend and backend technologies. Throughout my career, I have worked on a variety of projects ranging from small startups to large enterprise applications.",
+    "I graduated with a degree in Computer Science from Kathmandu University.",
+    "Jhapa, Nepal"
+  ],
+  "experiences": [
+    {
+      "company": "ABC Tech",
+      "position": "Senior Full Stack Developer",
+      "job_type": "Full-time"
+    },
+    {
+      "company": "Info Developer",
+      "position": "Backend Developer",
+      "job_type": "Remote"
+    },
+    {
+      "company": "F1 Soft",
+      "position": "Frontend Developer",
+      "job_type": "Full-time"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "name": "CSS3",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "React.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "name": "Next.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+      "name": "Node.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+      "name": "Express.js",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    }
+  ]
+}
